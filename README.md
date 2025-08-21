@@ -1,6 +1,10 @@
 <br clear="both">
 
-<h3 align="left">Hi 👋! My name is Allen Lozada and I am from Philippines</h3>
+<h3 align="center">Hi 👋! My name is Allen Lozada and I am from Philippines</h3>
+
+###
+
+<p align="left">🌱 I’m currently learning to use Redis Cache and Microservices in dotnet!</p>
 
 ###
 
@@ -10,6 +14,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gribdd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Gribdd&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
+
+<h4 align="left">I code with the following tech stack! :D</h4>
 
 ###
 
@@ -52,10 +60,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
 </div>
-
-###
-
-<br clear="both">
-
 
 ###
