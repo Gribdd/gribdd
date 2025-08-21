@@ -1,6 +1,6 @@
-<br clear="both">
+ef<br clear="both">
 
-<h3 align="center">Hi 👋! My name is Allen Lozada and I am from Philippines</h3>
+<h3 align="left">Hi 👋! My name is Allen Lozada and I am from Philippines</h3>
 
 ###
 
