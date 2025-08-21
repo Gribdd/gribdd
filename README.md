@@ -1,5 +1,5 @@
 
-<h3 align="left">Hi 👋! My name is Allen Lozada and I'm from the Philippines</h3>
+<h1 align="left">Hi 👋! My name is Allen Lozada and I'm from the Philippines</h3>
 
 ###
 
